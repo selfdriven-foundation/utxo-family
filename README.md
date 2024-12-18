@@ -10,4 +10,4 @@
 
 ### Resources
 - [cardano.build/#utxo-family](https://cardano.build/#utxo-family)
-- [GitHub Repo](https://github.com/selfdriven-foundation/selfdriven-finance)
+- [GitHub Repo](https://github.com/selfdriven-foundation/utxo-family)
