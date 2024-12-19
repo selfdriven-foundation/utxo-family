@@ -27,4 +27,4 @@
 
 
 ### Tools
-- [Cardano|eUTXO.org](https://eutxo.org)
+- [eUTXO.org](https://eutxo.org)
