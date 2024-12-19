@@ -16,9 +16,8 @@
 - [Bitcoin](https://bitcoin.org)
 - [Cardano](https://cardano.org)
 - [Litecoin](https://litecoin.org)
-- [Bitcoin Cash](https://bitcoincash.org)
-- [ZCash](https://z.cash)
 - [Ergo](https://ergoplatform.org)
+- [Dogecoin](https://dogecoin.com)
 
 ### Tools
 - [eUTXO.org](https://eutxo.org)
