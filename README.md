@@ -1,4 +1,4 @@
-### UTXO based Blockchain Family.
+### The UTXO based Blockchain Family.
 
 ### Status
 - Research & Development
