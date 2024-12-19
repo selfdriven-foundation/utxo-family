@@ -18,6 +18,13 @@
 - [Litecoin](https://litecoin.org)
 - [Ergo](https://ergoplatform.org)
 - [Dogecoin](https://dogecoin.com)
+- [BitcoinCash](https://bitcoincash.org)
+- [Dash](https://www.dash.org)
+- [ZCash](https://z.cash)
+- [BlockchainSV](https://bitcoinsv.com)
+- [Monero](https://www.getmonero.org)
+- [Decred](https://decred.org)
+
 
 ### Tools
 - [eUTXO.org](https://eutxo.org)
