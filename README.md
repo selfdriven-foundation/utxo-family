@@ -28,3 +28,6 @@
 
 ### Tools
 - [eUTXO.org](https://eutxo.org)
+
+### Research
+- [utxo-company/bullet](https://github.com/utxo-company/bullet/blob/main/paper/bullet.pdf)
