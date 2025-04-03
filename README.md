@@ -9,8 +9,9 @@
 - [selfdriven.foundation/connect](https://selfdriven.foundation/connect)
 
 ### Resources
+- [**GitHub Repo**](https://github.com/selfdriven-foundation/utxo-family)
 - [cardano.build/#utxo-family](https://cardano.build/#utxo-family)
-- [GitHub Repo](https://github.com/selfdriven-foundation/utxo-family)
+- [cardanowallets.io](https://cardanowallets.io)
 
 ### Projects
 - [Bitcoin](https://bitcoin.org)
@@ -24,7 +25,6 @@
 - [BlockchainSV](https://bitcoinsv.com)
 - [Monero](https://www.getmonero.org)
 - [Decred](https://decred.org)
-
 
 ### Tools
 - [eUTXO.org](https://eutxo.org)
