@@ -1,7 +1,6 @@
 ### The UTXO based Blockchain Family.
 
 ### Status
-- Research & Development
 - Building community team to lead & contribute to this site
 
 ### Contact Us
