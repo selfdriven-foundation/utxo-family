@@ -32,3 +32,4 @@
 ### Research
 - [utxo-company/bullet](https://github.com/utxo-company/bullet/blob/main/paper/bullet.pdf)
 - [sundialprotocol.com](https://www.sundialprotocol.com)
+- [Cardinals Spec](https://github.com/input-output-hk/cardinal-spec)
